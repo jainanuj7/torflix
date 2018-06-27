@@ -14,12 +14,7 @@ app.get('/', function(req, res) {
 
 app.post('/stream', function (req, res) {
     const { exec } = require('child_process');
-  exec('peerflix'+ ' "' +req.body.url+  '" --vlc', (error, stdout, stderr) => {
-    if (error) {
-      console.error(`exec error: ${error}`);
-      return;
-    }
-  });
+  exec('peerflix'+ ' "' +req.body.url+  '" --vlc');
 
 })
 
