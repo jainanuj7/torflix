@@ -13,7 +13,7 @@ Nodejs and a web browser
 
 # Screenshots
 
-![alt text](https://github.com/jainanuj7/torflix/blob/master/screenshots/torflix.jpg)
+![alt text](https://github.com/jainanuj7/torflix/blob/master/screenshots/torflix.JPG)
 
 ![alt text](https://github.com/jainanuj7/torflix/blob/master/screenshots/movie.jpg)
 
