@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jainanuj7/torflix#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "browserify": "^16.2.2",
     "child_process": "^1.0.2",
     "express": "^4.16.3",
     "path": "^0.12.7",
